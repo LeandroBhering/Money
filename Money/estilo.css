@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #8AE3EE;
+}
+
+header#baner {
+	display: block;
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	background-image: linear-gradient(to left, #194B40, #008A7F);
+	box-shadow: 1px 1px 4px #7AB84B;
+}
+
+header#baner img#logo {
+	position: relative;
+	top: -50px;
+	left: 30px;
+}
+
+#onedollar {
+	display: block;
+	position: fixed;
+	margin-top: 10px;
+	margin-left: 77%;
+
+}
+
+.principal {
+	background-image: linear-gradient(to top, #0F7C69, #08A188);
+	width: 100%;
+	height: 100%;
+	padding: 150px 0 100px 0;
+
+}
+
+.principal h1 {
+	text-align: center;
+	font-size: 30pt;
+	font-family: Helvetica, Arial;
+	text-shadow: 1px 1px 4px #fff;
+	margin-bottom: 20px;
+
+}
+
+.principal p {
+	text-indent: 40px;
+	text-align: justify;
+	font-size: 18pt;
+	font-family: 'sen', sans-serif;
+	padding: 20px 180px;
+	text-shadow: 1px 1px 1px #888;
+}
+
+#lotmoney {
+	position: relative;
+	left: 35%;
+}
+
+footer {
+	background-color: #008A7F;
+	text-align: center;
+	font-family: Arial;
+	color: #000;
+	border-top: solid 1px #7AB84B;
+	padding: 15px;
+	clear: both;
+}

@@ -72,3 +72,12 @@ footer {
 	padding: 15px;
 	clear: both;
 }
+
+a {
+	color: #7AB84B;
+	text-decoration: none;
+}
+
+a:hover {
+	color: aqua;
+}

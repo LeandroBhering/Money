@@ -50,12 +50,17 @@ header#baner img#logo {
 }
 
 .principal p {
-	text-indent: 40px;
+	text-indent: 50px;
 	text-align: justify;
 	font-size: 18pt;
 	font-family: 'sen', sans-serif;
-	padding: 20px 180px;
+	margin: auto;
+	width: 1000px;
 	text-shadow: 1px 1px 1px #888;
+}
+
+article{
+
 }
 
 #lotmoney {

@@ -34,8 +34,6 @@ header#baner img#logo {
 
 .principal {
 	background-image: linear-gradient(to top, #0F7C69, #08A188);
-	width: 100%;
-	height: 100%;
 	padding: 150px 0 100px 0;
 
 }
@@ -55,7 +53,7 @@ header#baner img#logo {
 	font-size: 18pt;
 	font-family: 'sen', sans-serif;
 	margin: auto;
-	width: 1000px;
+	width: 800px;
 	text-shadow: 1px 1px 1px #888;
 }
 
